@@ -1,8 +1,8 @@
 # Object-Oriented-drag
-Object Oriented drag
+基于面向对象+观察者模式的拖拽
 
 ##event.js 
-####跨浏览器的事件处理程序
+跨浏览器的事件处理程序
 
 <strong> myBind </strong> : bind方法的兼容性问题解决方案,将其添加到Function的原型上 <br>
 <strong> on </strong> : 订阅(绑定)系统内置事件或自定义事件的方法,兼容IE6~8 <br>
@@ -11,6 +11,6 @@ Object Oriented drag
 <strong> off </strong> :  移除系统内置事件或自定义事件的方法,兼容IE6~8 <br>
 
 ##drag.js
-####面向对象拖拽框架
+面向对象拖拽框架
 
 
