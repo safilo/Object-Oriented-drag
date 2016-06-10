@@ -21,5 +21,5 @@
 <pre><code>on(obj, "selfDragEnd", fn);</code></pre>
 
 ##elastic-potential-energy.js
-在拖拽上扩展弹性势能运动方法 <br>
+在拖拽上扩展的弹性势能运动方法 <br>
 订阅拖拽发生时的一系列自定义事件，在mouseup时通过计算水平速度和竖直高度，让其进行左右碰撞和自由落体运动
