@@ -16,4 +16,6 @@
 ##drag.js
 面向对象拖拽框架
 
-
+##elastic-potential-energy.js
+弹性势能运动方法
+在mouseup时通过计算水平速度和竖直高度，让其进行左右碰撞和自由落体运动
