@@ -1,6 +1,6 @@
 # Object-Oriented-drag
 面向对象+观察者模式的拖拽 <br>
-#### <a href=" http://wlqing.com/demo/oop-drag" target="_blank">demo</a>
+#### <a href="http://wlqing.com/demo/oop-drag" target="_blank">demo</a>
 ##event.js 
 跨浏览器的事件处理程序
 
