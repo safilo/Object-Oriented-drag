@@ -1,10 +1,10 @@
 # Object-Oriented-drag
 面向对象+观察者模式的拖拽 <br>
-#### <a href="http://wlqing.com/demo/oop-drag" target="_blank">demo</a>
+#### <a href="http://safilo.me/demo/oop-drag" target="_blank">demo</a>
 ##event.js 
 跨浏览器的事件处理程序
 
-<strong> myBind </strong> : bind方法的兼容性问题解决方案,将其添加到Function的原型上 <br>
+** myBind ** : bind方法的兼容性问题解决方案,将其添加到Function的原型上 <br>
 <pre><code>fn.myBind(context,parameters);</code></pre>
 <strong> on </strong> : 订阅(绑定)系统内置事件或自定义事件的方法,兼容IE6~8 <br>
 <pre><code>on(obj, event, fn);</code></pre>
