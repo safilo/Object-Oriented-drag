@@ -4,7 +4,7 @@
 ##event.js 
 跨浏览器的事件处理程序
 
-** myBind ** : bind方法的兼容性问题解决方案,将其添加到Function的原型上 <br>
+<strong> myBind </strong> : bind方法的兼容性问题解决方案,将其添加到Function的原型上 <br>
 <pre><code>fn.myBind(context,parameters);</code></pre>
 <strong> on </strong> : 订阅(绑定)系统内置事件或自定义事件的方法,兼容IE6~8 <br>
 <pre><code>on(obj, event, fn);</code></pre>
